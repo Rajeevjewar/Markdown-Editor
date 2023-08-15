@@ -10,19 +10,17 @@ Click [here](https://markdown-editor-rajeev.vercel.app/) and simplify your tasks
 
 ## Features and Interfaces
 
-- Multiple Boards: Create and manage multiple boards for tasks.
+- Markdown Editor: Edit and preview your content seamlessly with an intuitive interface.
 
-- Customizable Board: Fully customizable board to simplify tasks.
+- Real-time Preview: Experience the convenience of effortless Markdown editing and unleash your creativity!
 
-- Easy Task Tracking: Effortlessly track progress by swiping tasks.
+- Markdown Syntax: Use Markdown syntax to format your content.
 
-- Add New Columns: Add columns to tailor the tool to your workflow.
-
-- Hide Slider: Hide slider for clutter-free workspace.
+- Create File : Create a new file and start writing.
 
 - Dark and Light Modes: Work in any environment with both modes available.
 
-- Quick Add Button: One-click button to quickly add new tasks.
+- Delete not usable files: Delete the file which is not in use.
 
 <div align="center" style="display:flex; gap: 20px;">
 <img src="./public/preview2.png" width="400" height="220" />
