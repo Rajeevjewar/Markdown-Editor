@@ -25,8 +25,8 @@ Click [here](https://markdown-editor-rajeev.vercel.app/) and simplify your tasks
 - Quick Add Button: One-click button to quickly add new tasks.
 
 <div align="center" style="display:flex; gap: 20px;">
-<img src="./public/preview2.png" width="400" height="240" />
-<img src="./public/preview3.png" width="400" height="240" />
+<img src="./public/preview2.png" width="400" height="220" />
+<img src="./public/preview3.png" width="400" height="220" />
 </div>
 
 ## Tech stack
