@@ -1,4 +1,4 @@
-<h1 align="center">Markdown Editor 𝌡</h1>
+<h1 align="center">𝌡 Markdown Editor ✏️</h1>
 
 A powerful Markdown Editor, an online platform that interprets Markdown language and displays the results in real-time. Edit and preview your content seamlessly with an intuitive interface. Experience the convenience of effortless Markdown editing and unleash your creativity!"
 
@@ -53,12 +53,10 @@ Click [here](https://markdown-editor-rajeev.vercel.app/) and simplify your tasks
 
 ## Need help?
 
-Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at [iamrajeev.me](https://iamrajeev.me)
+Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at my [Portfolio](https://iamrajeev.me).
 
 [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/be_rajeevkumar)
 
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
-
-<p align = "center">Show some ❤️&nbsp; by giving the star to this repo</p>
